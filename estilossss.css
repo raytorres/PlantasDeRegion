@@ -1,0 +1,61 @@
+.fondo{
+	background: white;
+	font-family: sans-serif;
+}
+
+.titulo{
+	color: white;
+	text-align: center;
+	background: black;
+	font-display: cursive;
+	height: 500px;
+	width: 100%;
+
+}
+nav{
+	background: black;
+	  height: 30px;
+	  border: black solid 5px;
+}
+nav ul li{
+	/*flotar los links de la lista*/
+	float: left;
+	/*codigo para adquirir estilo de lista*/
+	list-style: none;
+	line-height: 2px;
+	padding-left: 20px;
+	
+}
+.limpiar{
+	clear: both;
+}
+
+.contenido{
+	background: white;
+	float: left;
+	height: 300px;
+	width: 78%;
+	border: black solid;
+}
+
+	
+	
+.lateral{
+	background:turquoise;
+	float: left;
+	height: 300px;
+	width: 20%;
+	border: black solid;
+}
+.piedepagina{
+	background:black;
+	color: white;
+	padding: 60px;
+    border: blanchedalmond;
+}
+.small{
+	font-size: .10em
+}  
+#nav-menu ul {
+list-style:none;
+}
